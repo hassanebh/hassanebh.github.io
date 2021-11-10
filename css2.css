@@ -1,0 +1,73 @@
+#indeed
+{
+	margin-top:4%;
+	margin-top:4%;
+	height:175px;
+	width:175px;
+	
+	
+}
+#indeed:hover
+{   width : 10% ; }
+
+#mail{
+	margin-top:4%;
+	height:175px;
+	width:175px;
+	
+}
+
+#mail:hover{
+	width : 10% ; }
+
+#tel{
+	margin-top:4%;
+	height:175px;
+	width:175px;
+}
+
+#tel:hover{
+	width : 10% ;	
+	}
+.body{
+	background-color:#FFDD99;
+}
+
+.button{
+	background-color:#3355FF;
+	color: #000000;
+	padding:1rem;
+	text-decoration:none;
+	display:inline-block;
+    border-radius:3rem;
+	margin-top: 15%;
+	width:200px;
+}
+.button:hover {
+background: #FFFFFF; }
+
+header {background-color:#3355FF;
+	   font-size:50px;
+	  }
+	  
+.test2{
+	border: 10px solid #3355FF;
+	height:500px;
+	width:1000px;
+	margin-top:10%;
+	
+}
+.comp{
+	margin-top:5%;
+	font-size:20px
+      }
+
+.moi{
+	margin-top:10%;
+	border: 15px solid #1C6EA4;
+	
+}
+
+.bande{
+	color:#3355FF
+}

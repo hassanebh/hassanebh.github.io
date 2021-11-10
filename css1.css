@@ -1,0 +1,47 @@
+header {
+	margin-bottom: 6%;
+	text-decoration:none;
+	color:black;
+	
+}
+.sep{
+	margin-bottom: 10%;
+	}
+.button{
+	background-color:#3355FF;
+	color: #000000;
+	padding:1rem;
+	text-decoration:none;
+	display:inline-block;
+    border-radius:3rem;
+	margin-top: 15%;
+	width:200px;
+	
+}
+.button:hover {
+background: #FFFFFF; }
+
+
+.body{background-color:#FFDD99;
+	  color:#000000;}
+
+.shadow {
+	border-radius:1rem;
+	text-align:center;
+	background-color:#3355FF;
+	}
+
+h1{
+	color:white
+}
+
+.nom{color:black;]
+	
+
+ 
+	
+
+
+
+
+
